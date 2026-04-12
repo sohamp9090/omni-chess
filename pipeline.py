@@ -29,4 +29,4 @@ def run_pipeline(username, max_games=50):
 
 if __name__ == "__main__":
     # Test with your own Lichess username if you have one, or use this one
-    run_pipeline("sojam9090", max_games=50)
+    run_pipeline("sojam9090", max_games=500)
